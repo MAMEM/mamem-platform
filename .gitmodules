@@ -1,0 +1,12 @@
+[submodule "sensors/EPOC2LSL"]
+	path = sensors/EPOC2LSL
+	url = https://github.com/liarosge/EPOC2LSL.git
+[submodule "interaction-sdk/ssvep-eeg-processing-toolbox"]
+	path = interaction-sdk/ssvep-eeg-processing-toolbox
+	url = https://github.com/MAMEM/ssvep-eeg-processing-toolbox.git
+[submodule "application-networking/SocketIO-Node"]
+	path = application-networking/SocketIO-Node
+	url = https://github.com/liarosge/SocketIO-Node.git
+[submodule "application-networking/LSL2SocketIO"]
+	path = application-networking/LSL2SocketIO
+	url = https://github.com/liarosge/LSL2SocketIO.git
